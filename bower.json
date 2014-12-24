@@ -1,0 +1,9 @@
+{
+  "name": "selection-stats",
+  "main": "selection-stats.js",
+  "dependencies": {
+    "string-stats": "0.*"
+  },
+  "keywords": ["util", "selection", "text", "word", "character", "count", "stats", "statistics"],
+  "ignore": [".jshintrc", ".gitignore"]
+}
