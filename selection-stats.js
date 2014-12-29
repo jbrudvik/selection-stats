@@ -12,6 +12,8 @@
 
   /**
    * Return the number of words in a selection
+   *
+   * @param {Selection} selection
    */
   selectionStats.wordCount = function (selection) {
     var text = selection.toString();
@@ -20,6 +22,8 @@
 
   /**
    * Return the number of characters in a selection
+   *
+   * @param {Selection} selection
    */
   selectionStats.characterCount = function (selection) {
     var text = selection.toString();
