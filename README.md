@@ -19,12 +19,12 @@
 
 # Development
 
-## Generating documentation
+## Generate documentation
 
     $ npm install -g dox
     $ ./generate-docs > README.md
 
-## Deployment
+## Deploy
 
 Where X.Y.Z is the new version number:
 
