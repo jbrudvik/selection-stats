@@ -5,5 +5,5 @@
     "string-stats": "0.*"
   },
   "keywords": ["util", "selection", "text", "word", "character", "count", "stats", "statistics"],
-  "ignore": [".jshintrc", ".gitignore"]
+  "ignore": ["**/.*", "*.md", "generate-docs"]
 }
