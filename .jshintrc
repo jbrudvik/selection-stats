@@ -14,7 +14,7 @@
   "expr": true,
   "curly": false,
   "browser": true,
-  "predef": [
-    "stringStats"
-  ]
+  "globals": {
+    "stringStats": false
+  }
 }
