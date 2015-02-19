@@ -1,7 +1,4 @@
 
-/* global stringStats:false */
-/* jshint bitwise:false */
-
 (function(window, undefined) {
 
   /**
